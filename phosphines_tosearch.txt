@@ -1,0 +1,13 @@
+246triOMePh3P,COc1cc(OC)cc(OC)c1P(c(c(c2)OC)c(OC)cc2OC)c3c(OC)cc(OC)cc3OC
+35bisCF3Ph_3P,FC(F)(F)c(c1)cc(C(F)(F)F)cc1P(c(cc2C(F)(F)F)cc(c2)C(F)(F)F)c3cc(C(F)(F)F)cc(c3)C(F)(F)F
+35xylyl3P,Cc1cc(C)cc(c1)P(c2cc(C)cc(C)c2)c3cc(C)cc(C)c3
+APhos,CN(C)c1ccc(cc1)P(C(C)(C)C)C(C)(C)C
+BippyPhos,CC(C)(C)P(C(C)(C)C)c1ccnn1-c2c(-c3ccccc3)n(-c4ccccc4)nc2-c5ccccc5
+CataCXium_ABn,C1[CH](C2)C[CH](C3)C[CH]1CC23P(Cc4ccccc4)C56C[CH]7C[CH](C6)C[CH](C7)C5
+CataCXium_PInCy,C1CCCCC1P(C2CCCCC2)c(c3)n(c(c34)cccc4)-c5ccccc5
+CyvBRIDP,C1CCCCC1P(C2CCCCC2)C(C)=C(c3ccccc3)c4ccccc4
+DavePhos,CN(C)c1ccccc1-c2ccccc2P(C3CCCCC3)C4CCCCC4
+JackiePhos,CC(C)c1cc(C(C)C)cc(C(C)C)c1-c(c2OC)c(c(OC)cc2)P(c3cc(C(F)(F)F)cc(c3)C(F)(F)F)c4cc(C(F)(F)F)cc(c4)C(F)(F)F
+JohnPhos,CC(C)(C)P(C(C)(C)C)c1ccccc1-c2ccccc2
+P_o_tol3,Cc1ccccc1P(c2ccccc2C)c3ccccc3C
+PCy2Ph,C1CCCCC1P(C2CCCCC2)c3ccccc3
